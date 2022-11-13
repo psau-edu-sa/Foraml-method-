@@ -1,5 +1,5 @@
 # Traffic light
-System of *traffic*
+System of *traffic* light
 <div>
 <img src="https://user-images.githubusercontent.com/107370302/201539480-2f918538-ed7c-419c-ba11-f31116920ebe.png" width=300 height=340>
 <img src="https://user-images.githubusercontent.com/107370302/201539480-2f918538-ed7c-419c-ba11-f31116920ebe.png" width=300 height=340>
